@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-Welcome to my GitHub profile! I love coding, collaborating, and learning new technologies. Here's a quick summary of my GitHub activity and stats:
-
----
-
 ### 🌟 Profile Summary
 
 <div align="center">
