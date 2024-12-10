@@ -6,14 +6,16 @@ Welcome to my GitHub profile! I love coding, collaborating, and learning new tec
 
 ### 🌟 Profile Summary
 
-![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YosukeKono0101&theme=midnight_purple)
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YosukeKono0101&theme=midnight_purple" alt="Profile Details" />
+</div>
 
 ---
 
 ### 📊 GitHub Stats and Languages
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YosukeKono0101&theme=midnight_purple" alt="Top Languages" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YosukeKono0101&theme=midnight_purple" alt="Top Languages" style="margin-right: 20px;" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=YosukeKono0101&theme=midnight_purple" alt="GitHub Stats" />
 </div>
 
@@ -21,22 +23,22 @@ Welcome to my GitHub profile! I love coding, collaborating, and learning new tec
 
 ### 🔥 Streak Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YosukeKono0101&theme=midnight-purple)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YosukeKono0101&theme=midnight-purple" alt="GitHub Streak" />
+</div>
 
 ---
 
 ### 🛠️ My Tools & Languages
 
-Here are some technologies and tools I work with:
-
-#### Languages
+#### 👨‍💻 Languages
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-#### Frameworks/Libraries
+#### 📚 Frameworks & Libraries
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -46,12 +48,12 @@ Here are some technologies and tools I work with:
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
-#### Databases
+#### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-#### Tools & Platforms
+#### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -62,7 +64,7 @@ Here are some technologies and tools I work with:
 
 ### 🌍 Social Media
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/YosukeKono0101/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yosukekono/)
 
 ---
 
