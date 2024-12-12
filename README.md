@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hi there I'm Yosuke👋
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yosukekono/)
 
 ### 🌟 Profile Summary
 
@@ -57,17 +59,6 @@
 ![REST APIs](https://img.shields.io/badge/REST-02569B?style=flat-square&logo=rest&logoColor=white)
 ![RESTful APIs](https://img.shields.io/badge/RESTful-02569B?style=flat-square&logo=rest&logoColor=white)
 
-
-### 🌍 Social Media
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yosukekono/)
-
----
-
-### 👀 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=YosukeKono0101&color=blue)
-
 ---
 
 ### ✨ Latest Blog Posts
@@ -77,10 +68,3 @@
 - [Coding with Apple Intelligence](https://espirito.dev/coding-with-apple-intelligence)
 - [What are Connector Apps? How and when to use them?](https://espirito.dev/connector-apps)
 <!-- BLOG-POST-LIST:END -->
-
----
-
-### 📈 WakaTime Coding Stats
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
