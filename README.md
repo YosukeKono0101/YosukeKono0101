@@ -1,5 +1,5 @@
 # Hi there I'm Yosuke👋
-
+ 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yosukekono/)
 
 ### 🌟 Profile Summary
