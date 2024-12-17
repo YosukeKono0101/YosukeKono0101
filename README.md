@@ -68,3 +68,11 @@
 - [Coding with Apple Intelligence](https://espirito.dev/coding-with-apple-intelligence)
 - [What are Connector Apps? How and when to use them?](https://espirito.dev/connector-apps)
 <!-- BLOG-POST-LIST:END -->
+
+---
+
+### ⏱️ WakaTime Stats
+<!-- WAKATIME:START -->
+<!-- WAKATIME:END -->
+
+---
