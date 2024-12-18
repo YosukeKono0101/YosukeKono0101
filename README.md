@@ -70,9 +70,3 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
-
-### ⏱️ WakaTime Stats
-<!-- WAKATIME:START -->
-<!-- WAKATIME:END -->
-
----
