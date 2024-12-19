@@ -23,7 +23,7 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YosukeKono0101&theme=midnight-purple" alt="GitHub Streak" />
-</div>
+</div> 
 
 ---
 
